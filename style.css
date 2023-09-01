@@ -1,0 +1,62 @@
+/*topo*/
+
+    body { 
+        background-color:  #FFF; 
+        text-align: center;
+        padding: 10px;
+
+    }
+
+    img{ 
+        width: 40%;
+        border-radius: 40%;
+        background: url("images/fundo-topo.png") no-repeat;
+    }
+    .foto04{
+        width: 300px;
+        border-radius: 300px;
+    }
+    .foto10{
+        width: 200px;
+        border-radius:2000px;
+    }
+
+    .foto05{
+        width: 200px;
+        border-radius:200px;
+
+    }
+    .foto11{
+        width: 60%;
+        border-radius: 60%;
+
+    }
+    div{
+        text-align: center;
+        margin:10px;
+    }
+
+    h1{
+        
+        font-family: Arial, Helvetica, sans-serif;
+        letter-spacing: 5px;
+
+    }
+
+    h2{
+        font-family: Arial, Helvetica, sans-serif;
+        letter-spacing: 5px;
+
+    }
+    .text{
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            letter-spacing: 5px;
+            font-size: 20px;
+            background: #d31b3d;
+            padding: 20px;
+            color:#FFF !important;
+            border-radius: 10px;
+        
+    }
+
